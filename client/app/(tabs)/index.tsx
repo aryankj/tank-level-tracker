@@ -1,3 +1,13 @@
+{
+  /*
+   * Authors: Aryan Jha (akj22) and Steven McKelvey (smm56)
+   *
+   * The repo was cloned and modified from starter code provided by EMQX:
+   * https://github.com/emqx/MQTT-Client-Examples/tree/master/mqtt-client-React-Native-Expo
+   *
+   * We completely revamped the UI. The MQTT code from the repo is used below.
+   */
+}
 import { useEffect, useState } from "react";
 import {
   SafeAreaView,
